@@ -1,0 +1,21 @@
+.Senaryo{
+	background-color: lightblue;
+	align-items: center;
+	height: 100px;
+}
+.Metin{
+	background-color: AliceBlue ;
+
+	
+}
+.SifreliMetin{
+	background-color: bisque;
+	word-wrap: break-word;
+	
+}
+.CozulmusMetin{
+	background-color: DeepSkyBlue;
+}
+div{
+	word-wrap: break-word;
+}
